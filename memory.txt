@@ -1,0 +1,9 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2       234G  169G   53G  77% /
+11 Jul 20:30
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2       234G  169G   53G  77% /
+11 Jul 20:30
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2       234G  169G   53G  77% /
+11 Jul 20:31
